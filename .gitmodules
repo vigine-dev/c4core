@@ -1,12 +1,12 @@
 [submodule "cmake"]
 	path = cmake
-	url = https://github.com/biojppm/cmake
-	branch = master
+	url = https://github.com/vigine-dev/cmake
+	branch = vigine/main
 [submodule "extern/debugbreak"]
 	path = src/c4/ext/debugbreak
-	url = https://github.com/biojppm/debugbreak
-	branch = master
+	url = https://github.com/vigine-dev/debugbreak
+	branch = vigine/main
 [submodule "src/c4/ext/fast_float"]
 	path = src/c4/ext/fast_float
-	url = https://github.com/fastfloat/fast_float
-	branch = main
+	url = https://github.com/vigine-dev/fast_float
+	branch = vigine/main
